@@ -13,7 +13,7 @@ After reaching the base of each url, beautifulsoup4 is used to extract the final
 Note: 
 (a) Final table in each hierarchy is recognised to either have attribute border=2 or is the second table on the page having a map.
 Collected data is manipulated as required and appended to a csv file.
-(b) Please open the csv file in your browser(preferrably Google Chrome) or download it and open with Libre office. This is because India.csv contains names written in regional languages and Microsoft Excel messes those names with different encodings.
+(b) Please open the csv file in your browser using link: https://raw.githubusercontent.com/devesh3011/Web-Scraper-Fallingrain/master/India.csv (preferrably Google Chrome) or download it and open with Libre office. This is because India.csv contains names written in regional languages and Microsoft Excel messes those names with different encodings.
 
 
 ********* IMPORTANT!!! **********
